@@ -2,7 +2,7 @@
 
 ## Redis Spring boot 
 ### 좋아요 처리하기
-/RedisTest/src/main/java/com/test/board/BoardController.java
+(/RedisTest/src/main/java/com/test/board/BoardController.java)
 
 ### 일일 순 방문자수(Unique Visitor) 구하기
 VistorController.java
